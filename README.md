@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/e81d0507-a7d5-4013-bcaa-75bb57911b2e.svg)](https://wakatime.com/@e81d0507-a7d5-4013-bcaa-75bb57911b2e)
 
+- 🌱 I’m currently learning Ansible and Jenkins
 <!--
 **isaacItz/isaacItz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
