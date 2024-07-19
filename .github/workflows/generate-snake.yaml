@@ -15,7 +15,7 @@ jobs:
   generate:
     permissions:
       contents: write
-      timeout-minutes: 5
+    timeout-minutes: 5
 
     steps:
       - name: generate svg
