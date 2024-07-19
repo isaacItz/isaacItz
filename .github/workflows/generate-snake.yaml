@@ -14,7 +14,7 @@ jobs:
       timeout-minutes: 5
 
   steps:
-    - name: generate-svg
+    - name: generate svg
       uses: Platane/snk@v3
       with:
         # github user name to read the contribution graph from (**required**)
