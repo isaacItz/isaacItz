@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :computer: Operating Systems
+
+![shields](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github.com/isaacItz/isaacItz/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
