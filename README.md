@@ -1,6 +1,9 @@
-<h1> Hi there 
-    <img src="https://github.com/isaacItz/isaacItz/blob/main/assets/images/Hello.gif" width="28px" alt="👋">
+
+<h1 align="center">
+    💫 Hi ! I'm Arnaud Michel
+    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/main/assets/images/Hello.gif" width="28px" alt="👋">
 </h1>
+
 [![wakatime](https://wakatime.com/badge/user/e81d0507-a7d5-4013-bcaa-75bb57911b2e.svg)](https://wakatime.com/@e81d0507-a7d5-4013-bcaa-75bb57911b2e)
 
 - 🌱 I’m currently learning Ansible and Jenkins
